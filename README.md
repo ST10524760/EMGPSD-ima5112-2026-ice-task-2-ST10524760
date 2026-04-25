@@ -5,7 +5,7 @@ Course: Higher Certificate in mobile application and web development
 Subject: Introduction to Mobile Application Development
 
 Links
-GitHub Repository: 
+GitHub Repository: https://github.com/ST10524760/EMGPSD-ima5112-2026-ice-task-2-ST10524760.git
 
 
 Project Overview
