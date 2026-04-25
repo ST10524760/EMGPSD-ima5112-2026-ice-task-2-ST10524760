@@ -46,20 +46,18 @@ The workflow ensures that my project is automatically built and tested every tim
 
 Screenshots
 App Screenshots:
-![Screenshot 1] https://github.com/EMGPSD/ima5112-2026-g2-ass-2-ST10524760/blob/master/Screenshot1.jpeg
+![Screenshot 1] https://github.com/ST10524760/EMGPSD-ima5112-2026-ice-task-2-ST10524760/blob/main/Screenshot%202026-04-25%20105131.png
 
 *Caption for screenshot 1: Welcome page and description of what the app is for.
 
-![Screenshot 2]https://github.com/EMGPSD/ima5112-2026-g2-ass-2-ST10524760/blob/master/Screenshot2.jpeg
+![Screenshot 2] https://github.com/ST10524760/EMGPSD-ima5112-2026-ice-task-2-ST10524760/blob/main/Screenshot%202026-04-25%20105151.png
 
 *Caption for screenshot 2:Page for the questions to be displayed and the true/false buttons for the user to play the game. There is also a small area for short feedback to be provided for each question.
 
-![Screenshot 3] https://github.com/EMGPSD/ima5112-2026-g2-ass-2-ST10524760/blob/master/Screenshot3.jpeg
+![Screenshot 3] https://github.com/ST10524760/EMGPSD-ima5112-2026-ice-task-2-ST10524760/blob/main/Screenshot%202026-04-25%20105203.png
 
 *Caption for screenshot 3: The last page, which contains the user's final score and a review button for the user to view the entirety of all the questions and whether or not they are true or false.
 
-Video Demo:
-A video showcasing the app's functionality can be viewed here:
 
 Challenges and Learnings
 During the development of this project, I encountered several challenges, including:
@@ -82,9 +80,11 @@ References
 The Independent Institute of Education, 2026. Introduction to Programming Logic IPRG5111. [online via internal VLE] The Independent Institute of Education. Available at: https://advtechonline.sharepoint.com/:w:/r/sites/TertiaryStudents/_layouts/15/Doc.aspx?sourcedoc=%7BCA5A47EE-F107-44AD-AB60-6E296E0B3EAE%7D&file=IMAD5112MM.docx&action=default&mobileredirect=true [Accessed 22 April 2026].
 
 List of Figures
-Figure 1: Screenshot of home screen: 
-Figure 2: Screenshot of the question screen: 
-Figure 3: Screenshot of review screen: 
+Figure 1: Screenshot of home screen:  https://github.com/ST10524760/EMGPSD-ima5112-2026-ice-task-2-ST10524760/blob/main/Screenshot%202026-04-25%20105131.png
+
+Figure 2: Screenshot of the question screen: https://github.com/ST10524760/EMGPSD-ima5112-2026-ice-task-2-ST10524760/blob/main/Screenshot%202026-04-25%20105151.png 
+
+Figure 3: Screenshot of review screen:https://github.com/ST10524760/EMGPSD-ima5112-2026-ice-task-2-ST10524760/blob/main/Screenshot%202026-04-25%20105203.png 
 
 Disclosure of AI Usage in My Assessment
 In the development of this project, I have used generative AI tools to assist in various parts of the assignment. Below is a detailed disclosure of where and how these tools were used:
